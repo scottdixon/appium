@@ -8,7 +8,7 @@ Appium on OS X supports iOS and Android testing.
 * Make sure you have Xcode and the iOS SDK(s) installed. Xcode version 7.1 is
   recommended as earlier versions of Xcode are limited in which versions of iOS
   they can test against. See the next section for more detail.
-* You need to authorize use of the iOS Simulator. See [below](#authorizing-ios-on-the-computer).
+* You need to authorize use of the iOS Simulator. See [below](.#authorizing-ios-on-the-computer).
 * If you're on Xcode 7.x, Instruments Without Delay (IWD) does not work. You can
   enable IWD (which will significantly speed up your tests) using
   [this method](/docs/en/advanced-concepts/iwd_xcode7.md)
